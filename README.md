@@ -3,13 +3,12 @@
 
 - 👋 Mi nombre es Jesica
 - 👀 Estudio de forma autodidacta y a traves de cursos. 
-- 🌱 Actualmente sigo aprendiendo para convertirme en front end developer
-y soy analista manual de QA.
+- 🌱 Actualmente sigo aprendiendo para capacitarme en frontend y soy analista manual de QA.
 - 📫 Podes contactarme en: jesicaguerrerof@gmail.com
 
  EXPERIENCIA LABORAL
 - Wendys (DEGASA S.A | 2017- al presente)
-Tareas: Atención al cliente, Manejo de caja, control de vencimientos de productos, preparación y stockeo de los mismos, 
+Tareas: Atención al cliente, manejo de caja, control de vencimientos de productos, preparación y stockeo de los mismos, 
 tareas de limpieza en todos los puestos y estaciones de trabajo
 
 - Telemarketer (SION - NTB S.A | Octubre 2015 - Septiembre 2016). Venta telefónica de servicios de internet,
