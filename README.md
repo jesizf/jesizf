@@ -7,11 +7,10 @@
 - 📫 Podes contactarme en: jesicaguerrerof@gmail.com
 
  EXPERIENCIA LABORAL
-- Wendys (DEGASA S.A | 2017- al presente)
-Tareas: Atención al cliente, manejo de caja, control de vencimientos de productos, preparación y stockeo de los mismos, 
+- Wendys (DEGASA S.A | 2017- al presente). Tareas: Atención al cliente, manejo de caja, control de vencimientos de productos, preparación y stockeo de los mismos, 
 tareas de limpieza en todos los puestos y estaciones de trabajo
 
-- Telemarketer (SION - NTB S.A | Octubre 2015 - Septiembre 2016). Venta telefónica de servicios de internet,
+- Telemarketer (SION - NTB S.A | Octubre 2015 - Septiembre 2016). Tareas: Venta telefónica de servicios de internet,
 atención de reclamos y derivaciones de llamadas
 
 
