@@ -3,7 +3,7 @@
 
 - 👋 Mi nombre es Jesica
 - 👀 Estudio de forma autodidacta y a traves de cursos. 
-- 🌱 Actualmente sigo aprendiendo para capacitarme en frontend y soy analista manual de QA.
+- 🌱 Actualmente sigo aprendiendo para capacitarme en frontend y testing QA manual.
 - 📫 Podes contactarme en: jesicaguerrerof@gmail.com
 
  EXPERIENCIA LABORAL
