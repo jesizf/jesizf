@@ -20,7 +20,7 @@ Secundario completo | Marzo 2008 - Noviembre 2012.
 Titulo: Perito Mercantil con orientación contable.
 
 CURSOS
-- Desarrollo Web Full Stack
+- Desarrollo Web Full Stack.
 Educación Formar | Junio 2021 - Actualidad
 - Inglés para desarrollo de Software.
 Polotic | Abril 2021 - Julio 2021
