@@ -21,7 +21,7 @@ Titulo: Perito Mercantil con orientación contable.
 
 CURSOS
 - Desarrollo Web Full Stack.
-Educación Formar | Junio 2021 - Actualidad
+Digital House | Junio 2021 - Actualidad
 - Inglés para desarrollo de Software.
 Polotic | Abril 2021 - Julio 2021
 - Introducción a la Programación.
