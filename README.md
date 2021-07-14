@@ -1,7 +1,7 @@
 # Hello
 
 
-- 👋 Mi nombre es Jesica
+- 👋 Mi nombre es Jesica pero mis amigos me dicen China.
 - 🌱 Actualmente soy estudiante de desarrollo web full stack y testing QA manual.
 - 👀 Estudio de forma autodidacta y a traves de cursos. 
 - 📫 Podes contactarme en: jesicaguerrerof@gmail.com
