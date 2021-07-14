@@ -2,7 +2,7 @@
 
 
 - 👋 Mi nombre es Jesica
-- 🌱 Actualmente soy estudiante de desarrollo full stack y testing QA manual.
+- 🌱 Actualmente soy estudiante de desarrollo web full stack y testing QA manual.
 - 👀 Estudio de forma autodidacta y a traves de cursos. 
 - 📫 Podes contactarme en: jesicaguerrerof@gmail.com
 
