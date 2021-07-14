@@ -6,12 +6,12 @@
 - 👀 Estudio de forma autodidacta y a traves de cursos. 
 - 📫 Podes contactarme en: jesicaguerrerof@gmail.com
 
- EDUCACIÓN :pencil2:
+## EDUCACIÓN :pencil2:
  - Instituto Ramón L. Falcón
 Secundario completo | Marzo 2008 - Noviembre 2012.
 Titulo: Perito Mercantil con orientación contable.
 
-CURSOS
+## CURSOS
 - Desarrollo Web Full Stack.
 Digital House | Junio 2021 - Actualidad
 - Inglés para desarrollo de Software.
@@ -21,7 +21,7 @@ Polotic | Abril 2021 - Junio 2021
 - Software Tester QA.
 Educación IT | Abril 2021 - Mayo 2021
 
-EXPERIENCIA LABORAL 
+## EXPERIENCIA LABORAL 
 - Wendys (DEGASA S.A | Marzo 2017- al presente). Tareas: Atención al cliente, manejo de caja, control de vencimientos de productos, preparación y stockeo de los mismos, 
 tareas de limpieza en todos los puestos y estaciones de trabajo
 
