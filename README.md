@@ -2,7 +2,7 @@
 
 
 - 👋 Mi nombre es Jesica.
-- 🌱 Actualmente soy estudiante de desarrollo web full stack y testing QA manual.
+- 🌱 Actualmente soy estudiante de desarrollo web full stack y automation testing.
 - 👀 Estudio de forma autodidacta y a traves de cursos. 
 - 📫 Podes contactarme en: jesicaguerrerof@gmail.com
 
@@ -27,7 +27,7 @@ Educación IT | Abril 2021 - Mayo 2021
 
 
 ### EXPERIENCIA LABORAL 
-- Wendys (DEGASA S.A | Marzo 2017- Agosto 2022). Tareas: Atención al cliente, manejo de caja, control de vencimientos de productos, preparación y stockeo de los mismos, 
+- Automation testing (Accenture | Octubre 2022 - Presente)
 tareas de limpieza en todos los puestos y estaciones de trabajo
 
 - Telemarketer (SION - NTB S.A | Octubre 2015 - Septiembre 2016). Tareas: Venta telefónica de servicios de internet,
