@@ -28,11 +28,6 @@ Educación IT | Abril 2021 - Mayo 2021
 
 ### EXPERIENCIA LABORAL 
 - Automation testing (Accenture | Octubre 2022 - Presente)
-tareas de limpieza en todos los puestos y estaciones de trabajo
-
-- Telemarketer (SION - NTB S.A | Octubre 2015 - Septiembre 2016). Tareas: Venta telefónica de servicios de internet,
-atención de reclamos y derivaciones de llamadas.
-
  
 <!---
 jesizf/jesizf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
